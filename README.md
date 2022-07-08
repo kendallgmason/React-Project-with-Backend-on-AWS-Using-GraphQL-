@@ -6,25 +6,21 @@
 </br></br>
 
 
-### :white_check_mark: About The To Do List App 
+### :white_check_mark: React Project with Backend on AWS Using GraphQL
 
-I'd been wanting to make a to-do-list app for a while and I am really happy with the outcome of this one. I spent quite a bit of time on the design and I'm really pleased with how it looks. 
+I'd been wanting to use AWS for quite a while and in this instance, I signed up for an account and begin to explore the documentation for Amplify and GraphQL. Learned how to use AWS to serve the backend of my React To Do List App and store data in GraphQL. 
 
-I got it working fairly quickly but there was quite a lot of repetition in my code and I didn't have the data stored in a very efficient way. 
-
-With a little help, I did a big refactor! I've changed the data structure so that the items are now stored in an array (rather than as HTML strings) and that allowed me to store and access the data more efficiently. I learnt a lot during the refactoring process.
+It was really fun to see all the databases you could work with and languages to implement and engineer all different solutions. 
 
 </br></br>
 
 ### :mortar_board: Main Learning Points:
 
-- First time using React to build a proper project, so learned to take it slow and study documentation/google when needed. 
+- First time using AWS and GraphQL to build and provision the back end of a project, so learned to take it slow and study documentation/google when needed. 
 
 - Learned about breaking the problem down, planning and tackling one bit of the app at a time. 
 
 - Make sure to console log a lot and read errors/ not be afraid of them when they come up. 
-
-- How to pass down props and leanred more about CSS Styling. 
 
 </br></br>
 
@@ -34,9 +30,9 @@ React
 
 JavaScript
 
-CSS
+AWS
 
-HTML
+GraphQL
 
 </br></br>
 
@@ -56,7 +52,7 @@ No prerequisites
 
 Clone the repo
 
-git clone https://github.com/kendallgmason/To-Do-List-App.git
+git clone [https://github.com/kendallgmason/React-Project-with-Backend-on-AWS-Using-GraphQL-.git]
 
 Run the index.html in a browser
 
